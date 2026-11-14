@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="phoze_background">#101827</color>
+    <color name="phoze_accent">#78BAFF</color>
+    <color name="phoze_launcher_background">#182B50</color>
+</resources>
